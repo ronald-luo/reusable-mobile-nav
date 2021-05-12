@@ -1,6 +1,6 @@
 # reusable-mobile-nav
 
-The website is [live](https://ronald-luo.github.io/reusable-mobile-nav/)
+The website is live [here](https://ronald-luo.github.io/reusable-mobile-nav/)
 
 Check out more on my blog [here](https://www.ronald-luo.com/100-websites/)
 
